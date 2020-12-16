@@ -1,6 +1,6 @@
 {
-	"author": "George Mosch",
 	"name": "fcc-learn-npm-package-json",
+	"author": "George Mosch",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
